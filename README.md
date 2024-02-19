@@ -2,7 +2,8 @@
 
 Proyecto 5 del bootcap "Data Analyst" de TripleTen.
 Desarrollado por Óscar López.
-Link del repositorio en GitHub: https://github.com/OscarLpzLuna/TT-Proyecto-5.git
+URL del repositorio en GitHub: https://github.com/OscarLpzLuna/TT-Proyecto-5.git
+URL de la aplicación en Render: https://tt-proyecto-5.onrender.com
 
 En este proyecto se hace el despliegue del panel de control de una aplicación web sencilla
 en un servicio en la nube: Render.
@@ -24,6 +25,7 @@ el servidor donde se desplegará la aplicación.
 - 'requirements.txt' es un archivo necesario para indicar a Render las librerias necesarias para
 correr el script 'app.py'.
 - 'vehicles_us.csv', conjunto de datos de interés.
-
+- 'EDA.ipynb', Jupyter Notebook con el análsis exploratorio de datos realizado.
+- '.gitignore', archivo de configuración de Git. 
 
 
