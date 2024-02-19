@@ -2,6 +2,7 @@
 
 Proyecto 5 del bootcap "Data Analyst" de TripleTen.
 Desarrollado por Óscar López.
+Link del repositorio en GitHub: https://github.com/OscarLpzLuna/TT-Proyecto-5.git
 
 En este proyecto se hace el despliegue del panel de control de una aplicación web sencilla
 en un servicio en la nube: Render.
